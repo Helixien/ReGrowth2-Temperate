@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 2796063141
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1cafa581466db5277986a0bce5e9f592
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7859cd501ea75098bcf7e53f1b477c26
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/2261114471/Textures/Things/Plant/_Polluted/TemperateIvy_Polluted/TemperateIvy_PollutedC.psd
+- Assets/Data/ReGrowth2-Temperate/Textures/Things/Plant/BlueDandelion/BlueDandelionA.psd
+- Assets/Data/2261114471/Textures/Things/Plant/PlainlandTallGrass/PlainlandTallGrassB.psd
+- Assets/Data/ReGrowth2-Temperate/Textures/Things/Plant/TemperateIvy/TemperateIvyC.psd
+- Assets/Data/2261114471/Textures/Things/Plant/BlueDandelion/BlueDandelionA.psd
+- Assets/Data/2261114471/Textures/Things/Plant/PlainlandTallGrass/PlainlandTallGrassA.psd
+- Assets/Data/ReGrowth2-Temperate/Textures/Things/Plant/TemperateIvy/TemperateIvyA.psd
+- Assets/Data/2261114471/Textures/Things/Plant/Cathedralis/CathedralisB.psd
+- Assets/Data/ReGrowth2-Temperate/Textures/Things/Plant/RedDandelion/RedDandelionC.psd
+- Assets/Data/2261114471/Textures/Things/Plant/PlainlandTallGrass/PlainlandTallGrassC.psd
+- Assets/Data/ReGrowth2-Temperate/Textures/Things/Plant/_Leafless/TemperateIvy_Leafless/TemperateIvy_LeaflessC.psd
+- Assets/Data/2261114471/Textures/Things/Plant/_Leafless/TemperateIvy_Leafless/TemperateIvy_LeaflessA.psd
+- Assets/Data/2261114471/Textures/Things/Plant/_Leafless/TemperateIvy_Leafless/TemperateIvy_LeaflessC.psd
+- Assets/Data/ReGrowth2-Temperate/Textures/Things/Plant/Cathedralis/CathedralisC.psd
+- Assets/Data/2261114471/Textures/Things/Plant/_Leafless/TemperateIvy_Leafless/TemperateIvy_LeaflessB.psd
+- Assets/Data/ReGrowth2-Temperate/Textures/Things/Plant/RedDandelion/RedDandelionB.psd
+- Assets/Data/2261114471/Textures/Things/Plant/_Polluted/TemperateIvy_Polluted/TemperateIvy_PollutedB.psd
+- Assets/Data/ReGrowth2-Temperate/Textures/Things/Plant/BlueDandelion/BlueDandelionC.psd
+- Assets/Data/ReGrowth2-Temperate/Textures/Things/Plant/_Leafless/TemperateIvy_Leafless/TemperateIvy_LeaflessA.psd
+- Assets/Data/ReGrowth2-Temperate/Textures/Things/Plant/Cathedralis/CathedralisA.psd
+- Assets/Data/2261114471/Textures/Things/Plant/RedDandelion/RedDandelionC.psd
+- Assets/Data/ReGrowth2-Temperate/Textures/Things/Plant/PlainlandTallGrass/PlainlandTallGrassC.psd
+- Assets/Data/2261114471/Textures/Things/Plant/TemperateIvy/TemperateIvyB.psd
+- Assets/Data/2261114471/Textures/Things/Plant/TemperateIvy/TemperateIvyA.psd
+- Assets/Data/ReGrowth2-Temperate/Textures/Things/Plant/PlainlandTallGrass/PlainlandTallGrassB.psd
+- Assets/Data/ReGrowth2-Temperate/Textures/Things/Plant/BlueDandelion/BlueDandelionB.psd
+- Assets/Data/ReGrowth2-Temperate/Textures/Things/Plant/_Polluted/TemperateIvy_Polluted/TemperateIvy_PollutedC.psd
+- Assets/Data/ReGrowth2-Temperate/Textures/Things/Plant/RedDandelion/RedDandelionA.psd
+- Assets/Data/2261114471/Textures/Things/Plant/TemperateIvy/TemperateIvyC.psd
+- Assets/Data/2261114471/Textures/Things/Plant/_Polluted/TemperateIvy_Polluted/TemperateIvy_PollutedA.psd
+- Assets/Data/ReGrowth2-Temperate/Textures/Things/Plant/_Leafless/TemperateIvy_Leafless/TemperateIvy_LeaflessB.psd
+- Assets/Data/2261114471/Textures/Things/Plant/BlueDandelion/BlueDandelionB.psd
+- Assets/Data/2261114471/Textures/Things/Plant/Cathedralis/CathedralisC.psd
+- Assets/Data/ReGrowth2-Temperate/Textures/Things/Plant/_Polluted/TemperateIvy_Polluted/TemperateIvy_PollutedB.psd
+- Assets/Data/ReGrowth2-Temperate/Textures/Things/Plant/_Polluted/TemperateIvy_Polluted/TemperateIvy_PollutedA.psd
+- Assets/Data/ReGrowth2-Temperate/Textures/Things/Plant/PlainlandTallGrass/PlainlandTallGrassA.psd
+- Assets/Data/2261114471/Textures/Things/Plant/Cathedralis/CathedralisA.psd
+- Assets/Data/2261114471/Textures/Things/Plant/RedDandelion/RedDandelionB.psd
+- Assets/Data/2261114471/Textures/Things/Plant/BlueDandelion/BlueDandelionC.psd
+- Assets/Data/ReGrowth2-Temperate/Textures/Things/Plant/TemperateIvy/TemperateIvyB.psd
+- Assets/Data/ReGrowth2-Temperate/Textures/Things/Plant/Cathedralis/CathedralisB.psd
+- Assets/Data/2261114471/Textures/Things/Plant/RedDandelion/RedDandelionA.psd
+Dependencies: []
